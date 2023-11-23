@@ -2,6 +2,7 @@
 
 ## Overview
 This is a simple app created with Streamlit to perform image classification using the pre-trained InceptionV3 model.
+![image_2023-11-23_130403673](https://github.com/rodrigoguedes09/streamlit-initial/assets/61996985/c3cad6f5-0d56-4909-acb4-b013117c4267)
 
 ## Prerequisites
 Make sure you have Python and pip installed on your system.
@@ -22,6 +23,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+![image_2023-11-23_130446486](https://github.com/rodrigoguedes09/streamlit-initial/assets/61996985/56492748-f8cf-478c-b5d7-0514b1511475)
 
 #Usage
 In the app, upload an image using the "Choose an image..." button.

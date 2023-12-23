@@ -1,4 +1,5 @@
 # Image Classification with Streamlit and InceptionV3
+In the dynamic landscape of machine learning and computer vision, image classification has emerged as a powerful application, enabling systems to understand and categorize visual data. This tutorial explores the fusion of two robust technologies: Streamlit, a user-friendly Python library for creating interactive web applications, and InceptionV3, a state-of-the-art convolutional neural network (CNN) renowned for its accuracy in image recognition tasks.
 
 ## Overview
 This is a simple app created with Streamlit to perform image classification using the pre-trained InceptionV3 model.
